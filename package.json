@@ -1,0 +1,20 @@
+{
+  "name": "sportsreference",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx tsc && node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.3.3"
+  },
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/node": "^20.10.5"
+  }
+}
