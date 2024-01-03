@@ -23,11 +23,15 @@ As a last step, a last row is being written using the same values as first row a
 
    ``git@github.com:ricardo-zabir/Sports-Reference.git``
 
-2. Install the dependencies using npm.
+2. Enter the project folder.
+
+   ``cd sportsReference``
+
+3. Install the dependencies using npm.
 
    ``npm install``
 
-3. Run the program by typing the following command.
+4. Run the program by typing the following command.
 
    ``npm start``
 ### Any issues running the script, feel free to reach out at ricardofonseca.zabir@hotmail.com 
